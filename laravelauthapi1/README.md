@@ -1,5 +1,5 @@
 ## Laravel Complete Authentication API with Sanctum
-### Video Link:- 
+### Video Link:- https://youtu.be/rLt_RkSfqDc
 
 ## To Run this Project follow below:
 
